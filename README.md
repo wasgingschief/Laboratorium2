@@ -7,3 +7,6 @@
 - `app.py` – program pobierający imię i wiek, sprawdzający pełnoletność
 
 ## Wymagania
+Do uruchomienia programów wymagany jest pakiet `requests`.
+
+
